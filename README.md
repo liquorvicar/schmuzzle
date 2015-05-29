@@ -8,5 +8,5 @@ guarantee how long it'll take me to look at your PR but I will try and get round
 <li>All code to be unit-tested using PHPUnit</li></ul>
 </p>
 <p>
-[![Build Status](https://travis-ci.org/liquorvicar/schmuzzle.png)](https://travis-ci.org/liquorvicar/schmuzzle)
+[![Build Status](https://travis-ci.org/liquorvicar/schmuzzle.svg?branch=master)](https://travis-ci.org/liquorvicar/schmuzzle)
 </p>
