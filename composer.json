@@ -1,0 +1,24 @@
+{
+  "name": "schmuzzle/schmuzzle",
+  "description": "A softer, moe cuddly version of Guzzle",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andy Clyde",
+      "email": "me@andyclyde.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^6.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^4.6",
+    "mockery/mockery": "^0.9.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liquorvicar\\Schmuzzle\\": "src/"
+    }
+  }
+}
