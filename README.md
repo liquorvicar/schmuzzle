@@ -7,3 +7,6 @@ guarantee how long it'll take me to look at your PR but I will try and get round
 <ul><li>Code to be PSR-2 compatible</li>
 <li>All code to be unit-tested using PHPUnit</li></ul>
 </p>
+<p>
+[![Build Status](https://travis-ci.org/liquorvicar/schmuzzle.png)](https://travis-ci.org/liquorvicar/schmuzzle)
+</p>
