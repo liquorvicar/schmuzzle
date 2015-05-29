@@ -4,5 +4,5 @@ php:
   - 7
   - hhvm
 install:
-  - composer install --no-dev --quiet
+  - composer install --quiet
 script: phpunit -c phpunit.xml --coverage-text
